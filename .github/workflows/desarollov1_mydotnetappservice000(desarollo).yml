@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'mydotnetappservice000'
           slot-name: 'desarollo'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_186C4D3A4ABF44AEBDE6C7AF228FA940 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4A3E7C77B2340468FAD9B7E47EA2057 }}
           package: .
